@@ -131,678 +131,678 @@
    2254 received
    2253 April
    2252 released
-   2245 began
-   2242 can
+v   2245 began
+n   2242 can
    2237 several
    2227 August
    2220 there
    2218 some
    2212 since
-   2184 family
+n   2184 family
    2179 South
    2152 2019.
    2129 same
    2122 March
-   2114 took
+v   2114 took
    2100 They
-   2091 worked
+v   2091 worked
    2038 British
    2026 named
    2008 John
-   2002 football
-   1986 people
-   1985 died
-   1968 name
+n   2002 football
+n   1986 people
+v   1985 died
+n  1968 name
    1966 early
    1936 may
-   1934 year
+n   1934 year
    1933 four
    1916 no
-   1915 published
+v   1915 published
    1883 February
-   1880 built
-   1872 school
+v   1880 built
+b   1872 school
    1871 &
-   1860 located
+v   1860 located
    1858 At
-   1843 School
+n   1843 School
    1838 former
-   1831 moved
-   1824 number
-   1811 International
-   1811 called
+v   1831 moved
+n   1824 number
+a   1811 International
+v   1811 called
    1798 around
-   1793 joined
-   1791 series
+v   1793 joined
+n  1791 series
    1788 1
-   1738 League
-   1728 found
-   1725 place
-   1713 population
+n   1738 League
+v   1728 found
+n   1725 place
+n   1713 population
    1713 ()
    1710 them
    1701 North
    1683 each
-   1679 career.
-   1673 state
-   1673 rural
-   1641 group
-   1632 History.
+n   1679 career.
+n   1673 state
+a   1673 rural
+n   1641 group
+n   1632 History.
    1629 I
    1621 During
-   1616 elected
-   1604 professional
+v   1616 elected
+a   1604 professional
    1599 Early
    1594 based
-   1577 States
-   1576 life.
+n   1577 States
+n   1576 life.
    1524 these
-   1520 main
-   1516 area
+a   1520 main
+n   1516 area
    1515 Vologda
-   1515 started
-   1504 end
-   1499 did
+v   1515 started
+n   1504 end
+v   1499 did
    1494 German
-   1487 District,
+n   1487 District,
    1485 local
    1482 From
-   1481 married
-   1481 building
-   1480 Career.
+v   1481 married
+n   1481 building
+n   1480 Career.
    1478 Her
-   1477 national
-   1474 government
-   1465 life
-   1462 led
-   1462 appointed
-   1457 research
-   1456 head
-   1456 College
+a   1477 national
+n   1474 government
+n   1465 life
+v   1462 led
+v   1462 appointed
+n   1457 research
+n   1456 head
+n   1456 College
    1441 along
-   1433 company
+n   1433 company
    1432 due
    1431 left
-   1427 members
+n   1427 members
    1411 There
-   1405 home
+n   1405 home
    1405 could
-   1396 station
+n   1396 station
    1396 2
-   1385 city
-   1376 Indian
-   1375 competed
-   1368 music
-   1356 play
-   1354 included
+n   1385 city
+a   1376 Indian
+v   1375 competed
+n   1368 music
+v   1356 play
+v   1354 included
    1352 men's
    1345 ,
-   1335 back
+n   1335 back
    1326 2018
    1321 French
-   1318 tournament
-   1316 album
+n   1318 tournament
+n   1316 album
    1311 .
    1306 public
-   1306 book
-   1305 church
-   1303 high
+n   1306 book
+n   1305 church
+a   1303 high
    1301 so
    1292 For
    1278 within
    1278 locality
-   1276 career
-   1270 went
-   1264 debut
-   1258 small
-   1248 founded
-   1238 song
-   1235 War
+n   1276 career
+v   1270 went
+v   1264 debut
+a   1258 small
+v   1248 founded
+n   1238 song
+n   1235 War
    1226 now
-   1220 water
+n   1220 water
    1210 five
    1206 age
    1205 10
-   1202 came
-   1199 established
+v   1202 came
+v   1199 established
    1191 York
-   1191 announced
-   1187 City
-   1186 House
-   1177 Church
-   1168 set
-   1165 season.
-   1165 Olympics.
-   1165 Division
-   1160 use
+v   1191 announced
+n   1187 City
+n   1186 House
+n   1177 Church
+v   1168 set
+n   1165 season.
+n   1165 Olympics.
+n   1165 Division
+v   1160 use
    1153 West
    1152 various
    1151 third
-   1151 own
-   1148 son
+v   1151 own
+n   1148 son
    1144 East
-   1142 title
-   1142 Institute
+n   1142 title
+n   1142 Institute
    1142 3
    1136 because
    1130 final
    1129 However,
-   1129 election
+n   1129 election
    1129 any
-   1128 show
-   1128 produced
+n   1128 show
+v   1128 produced
    1127 among
-   1126 returned
+v   1126 returned
    1126 near
-   1124 game
+n   1124 game
    1118 still
-   1117 teams
-   1114 large
-   1113 director
+n   1117 teams
+a   1114 large
+n   1113 director
    1111 William
    1111 like
-   1110 single
-   1105 species
-   1105 opened
+a   1110 single
+n   1105 species
+v   1105 opened
    1104 English
-   1103 said
+v   1103 said
    1102 last
-   1099 working
-   1097 death
-   1088 created
-   1084 women
+v   1099 working
+n   1097 death
+v   1088 created
+n   1084 women
    1084 4
-   1083 directed
+v   1083 directed
    1082 When
-   1081 works
-   1076 District
+n   1081 works
+n   1076 District
    1070 2020
    1068 General
-   1067 house
+n   1067 house
    1063 2018,
-   1060 Council
-   1053 Army
-   1051 international
-   1050 wrote
-   1050 County
+n   1060 Council
+n   1053 Army
+a   1051 international
+v   1050 wrote
+n   1050 County
    1050 5
    1048 2002.
    1047 (a
-   1046 political
+a   1046 political
    1044 different
-   1041 role
+n   1041 role
    1040 very
-   1036 studied
-   1036 degree
+v   1036 studied
+n   1036 degree
    1031 another
    1027 12
-   1026 attended
-   1025 order
+v   1026 attended
+n   1025 order
    1023 given
    1018 15
-   1017 written
+v   1017 written
    1014 women's
    1014 Russia.
-   1012 plays
+n   1012 plays
    1010 general
    1004 having
-   1001 police
+n   1001 police
    1000 6
-    999 include
-    997 event
-    995 described
+v    999 include
+n    997 event
+v    995 described
     993 European
-    991 father
-    990 become
-    990 awarded
+n    991 father
+v    990 become
+v    990 awarded
     990 2017
     988 Summer
-    988 continued
+v    988 continued
     986 next
-    985 Party
+n    985 Party
     983 Women's
-    981 support
+n    981 support
     980 those
-    979 President
+n    979 President
     978 U.S.
-    976 form
-    975 best
-    970 district
-    965 games
+n    976 form
+a    975 best
+n    970 district
+n    965 games
     964 six
     964 major
-    963 club
-    958 refer
-    957 late
+n    963 club
+v    958 refer
+a    957 late
     955 Central
-    953 military
+n    953 military
     949 Chinese
-    947 coach
-    946 professor
+n    947 coach
+n    946 professor
     943 if
-    941 take
+v    941 take
     941 St.
     936 Royal
     934 total
     933 currently
     932 James
-    924 basketball
-    921 line
-    921 Department
+n    924 basketball
+n    921 line
+n    921 Department
     920 side
     918 social
     918 original
     914 20
-    913 long
+a    913 long
     911 According
-    909 art
-    898 make
-    898 day
-    897 television
-    897 graduated
-    896 position
+n    909 art
+v    898 make
+n    898 day
+n    897 television
+v    897 graduated
+n    896 position
     894 Oblast,
-    887 listed
-    887 designed
-    883 top
+v    887 listed
+v    887 designed
+n    883 top
     880 off
-    878 short
-    878 lead
-    874 president
+a    878 short
+v    878 lead
+n    874 president
     871 One
-    871 completed
+v    871 completed
     868 Italian
     867 what
     866 By
-    865 Russian
-    865 High
-    864 service
-    863 Biography.
+a    865 Russian
+a   865 High
+n    864 service
+n    863 Biography.
     861 8
-    857 Cup
-    857 Association
+n    857 Cup
+n    857 Association
     856 George
     854 San
-    854 Academy
-    853 history
-    849 Award
+n    854 Academy
+n    853 history
+n    849 Award
     847 London
-    841 railway
+n    841 railway
     840 While
     840 to:
     836 2019–20
-    835 study
-    835 few
+n    835 study
+a    835 few
     834 7
-    833 village)
-    831 using
+n    833 village)
+v    831 using
     824 Robert
-    824 Research
-    823 match
+n    824 Research
+v    823 match
     822 again
-    819 reported
+v    819 reported
     819 Japanese
-    816 development
-    815 Winter
-    814 list
-    813 system
-    812 Canadian
-    809 Championship
-    808 formed
+n    816 development
+n    815 Winter
+n    814 list
+n    813 system
+a    812 Canadian
+n    809 Championship
+v    808 formed
     808 down
-    806 village
-    805 Route
-    804 years.
+n    806 village
+n    805 Route
+n    804 years.
     803 11
     802 First
-    801 signed
-    801 involved
+v    801 signed
+v    801 involved
     801 24
-    798 playing
-    794 player
-    792 town
+v    798 playing
+n    794 player
+n    792 town
     792 often
-    791 across
-    788 appeared
+a    791 across
+v    788 appeared
     786 just
     785 All
-    783 college
+n    783 college
     782 further
-    781 Western
+a    781 Western
     779 These
-    777 Group
-    777 daughter
+n    777 Group
+n    777 daughter
     774 north
-    771 considered
-    770 player.
-    766 record
-    765 Society
-    765 children
-    763 senior
-    760 finished
+v    771 considered
+n    770 player.
+n    766 record
+n    765 Society
+n    765 children
+n    763 senior
+v    760 finished
     756 how
     753 2016
-    751 win
-    750 recorded
+n    751 win
+v    750 recorded
     750 Australian
-    747 law
+n    747 law
     747 even
-    746 young
+a    746 young
     746 Charles
     745 without
-    745 events
+n    745 events
     744 million
     742 Since
     742 14
-    738 time,
+n    738 time,
     738 much
     736 way
     735 16
     734 2017,
-    732 Art
-    731 Film
-    730 lost
-    730 leading
-    728 University.
-    728 Street
+n    732 Art
+n    731 Film
+a    730 lost
+v    730 leading
+n    728 University.
+n    728 Street
     726 30
-    719 River
-    717 Personal
-    716 world
-    716 promoted
-    716 important
+n    719 River
+a    717 Personal
+n    716 world
+v    716 promoted
+a    716 important
     715 south
     713 2018.
     712 18
-    711 developed
+v    711 developed
     709 13
-    708 Professor
-    707 period
-    707 Football
+n    708 Professor
+n    707 period
+n    707 Football
     705 St
-    700 sent
-    700 footballer
-    700 education
-    698 site
+v    700 sent
+n    700 footballer
+n    700 education
+n    698 site
     695 together
     695 originally
-    695 band
-    694 Union
-    694 represented
-    694 design
+n    695 band
+n    694 Union
+v    694 represented
+n    694 design
     693 17
-    688 Park
-    687 remained
+n    688 Park
+v    687 remained
     687 per
-    687 defeated
-    686 year,
-    686 Road
-    686 mother
+v    687 defeated
+n    686 year,
+n    686 Road
+n    686 mother
     684 With
-    682 office
-    681 program
+n    682 office
+n    681 program
     678 Its
     677 9
-    676 land
-    674 community
-    672 List
-    672 Center
-    670 do
-    668 current
+n    676 land
+n    674 community
+n    672 List
+n    672 Center
+v   670 do
+a    668 current
     667 Thomas
-    667 spent
-    667 gave
+v    667 spent
+v    667 gave
     666 African
-    663 old
+a    663 old
     663 Minister
     663 includes
-    662 Court
-    662 Catholic
-    659 speed
+n    662 Court
+a    662 Catholic
+n    659 speed
     655 25
-    653 taken
-    653 Governor
-    652 performed
-    652 division
+v    653 taken
+n    653 Governor
+v    652 performed
+n    652 division
     651 2015
     650 west
-    650 round
-    650 right
-    647 making
-    645 active
-    642 regular
-    641 students
+a    650 round
+a    650 right
+v    647 making
+a    645 active
+a    642 regular
+n    641 students
     640 east
     635 Ukrainian
-    635 century
-    634 studies
-    634 decided
+n    635 century
+n    634 studies
+v    634 decided
     633 able
-    632 project
+n    632 project
     632 II
-    632 Committee
-    630 video
-    628 King
-    627 year.
+n    632 Committee
+n    630 video
+n    628 King
+n    627 year.
     627 19
     626 Republic
     624 construction
-    624 Best
-    623 special
-    623 Following
-    621 route
-    620 featured
+a    624 Best
+a    623 special
+v    623 Following
+n    621 route
+a    620 featured
     620 2014
-    619 stated
-    619 official
-    619 business
-    617 raised
-    617 points
-    616 female
-    615 players
-    614 training
-    612 lived
+v    619 stated
+a    619 official
+n    619 business
+v    617 raised
+n    617 points
+n    616 female
+n    615 players
+n    614 training
+v    612 lived
     611 2016,
     609 throughout
-    609 followed
+v    609 followed
     608 21
-    607 story
-    607 men
+n    607 story
+n    607 men
     606 China
     605 previous
-    603 polo
-    603 Museum
+n    603 polo
+n    603 Museum
     603 Hong
-    603 Club
-    602 wife
-    602 Science
-    602 party
-    602 earned
-    600 open
-    600 features
-    598 months
-    597 woman
+n    603 Club
+n    602 wife
+n    602 Science
+n    602 party
+v    602 earned
+a    600 open
+n    600 features
+n    598 months
+n    597 woman
     597 Paul
-    595 Music
-    594 serving
-    594 days
+n    595 Music
+v    594 serving
+n    594 days
     594 22
-    593 run
-    593 Assembly
+n    593 run
+n    593 Assembly
     591 via
     591 Michigan
-    590 participated
-    590 met
-    590 fire
-    589 war
-    588 sold
+v    590 participated
+v    590 met
+n    590 fire
+n    589 war
+v    588 sold
     588 India
-    587 saw
-    587 result
+v    587 saw
+n    587 result
     587 away
-    586 entered
+v    586 entered
     583 seven
-    582 retired
-    582 full
-    581 live
+a    582 retired
+a    582 full
+a    581 live
     581 every
     580 Spanish
-    580 popular
+a    580 popular
     579 fourth
-    578 road
-    577 University,
-    577 County,
-    576 release
-    576 production
-    575 Democratic
-    575 Air
-    574 season,
+n    578 road
+n    577 University,
+n    577 County,
+v    576 release
+n    576 production
+a    575 Democratic
+n    575 Air
+n    574 season,
     574 eight
     573 times
-    571 Education
+n    571 Education
     571 An
     570 Mount
-    569 Northern
-    568 education.
+a    569 Northern
+n    568 education.
     566 Some
     564 similar
-    563 launched
-    563 largest
+v    563 launched
+a    563 largest
     561 should
-    561 man
-    561 black
-    560 Law
-    560 help
-    558 winning
-    557 assistant
-    556 forces
-    555 return
-    555 field
-    554 least
+n    561 man
+a    561 black
+n    560 Law
+v    560 help
+v    558 winning
+n    557 assistant
+n    556 forces
+v    555 return
+n    555 field
+a    554 least
     554 eventually
-    553 politician
-    551 Arts
-    550 track
-    550 killed
-    545 years,
+n    553 politician
+n    551 Arts
+n    550 track
+v    550 killed
+n    545 years,
     544 Washington
     544 Virginia
     544 27
-    543 provided
-    543 addition
+v    543 provided
+n    543 addition
     542 Polish
-    541 point
-    541 novel
-    540 Great
-    539 competition
+n    541 point
+n    541 novel
+a    540 Great
+n    539 competition
     539 2015,
-    538 stage
+n    538 stage
     537 David
     537 23
-    536 Historic
+a    536 Historic
     536 got
     535 England
-    535 Director
+n    535 Director
     534 never
-    533 Life.
-    532 half
+n    533 Life.
+a    532 half
     532 below
     531 towards
-    529 buildings
+n    529 buildings
     528 To
-    528 shows
-    528 private
-    527 control
-    527 case
-    527 Asian
+n    528 shows
+a    528 private
+n    527 control
+n    527 case
+a    527 Asian
     527 26
-    526 league
+n    526 league
     526 J.
-    525 seen
-    524 Rural
-    524 Coast
-    523 modern
-    523 Chief
-    522 replaced
-    521 Australia.
+v    525 seen
+a    524 Rural
+n    524 Coast
+a    523 modern
+n    523 Chief
+v    522 replaced
+n    521 Australia.
     519 whose
     519 Mary
     519 28
-    518 living
-    518 country
-    516 taught
-    516 skater.
+v    518 living
+n    518 country
+v    516 taught
+n    516 skater.
     516 previously
     516 NCAA
     516 especially
-    515 region
+n    515 region
     515 once
     515 Corps
-    515 body
+n    515 body
     515 29
     514 Other
     514 1st
-    513 Board
+n    513 Board
     513 2011
     512 Second
-    512 becoming
-    510 media
+v    512 becoming
+n    510 media
     509 though
     509 although
-    508 Saint
+n    508 Saint
     508 Joseph
-    507 placed
-    507 brought
+v    507 placed
+v    507 brought
     506 "the
     506 Peter
-    506 grew
-    506 Government
-    506 board
+v    506 grew
+n    506 Government
+n    506 board
     505 La
-    505 artist
-    504 close
+n    505 artist
+v    504 close
     504 2017.
-    503 studio
-    503 information
-    503 get
-    502 Creek
-    501 Soviet
-    501 Conference
+n    503 studio
+n    503 information
+v    503 get
+n    502 Creek
+a    501 Soviet
+n    501 Conference
     501 1,
-    500 team.
-    500 people.
+n    500 team.
+n    500 people.
     500 Henry
-    498 medical
-    498 Hall
-    498 forced
+a    498 medical
+n    498 Hall
+v    498 forced
     497 less
     497 himself
-    497 great
-    496 good
+a    497 great
+a    496 good
     496 2012
     495 Public
     492 northern
-    492 Legislative
+n    492 Legislative
     492 already
-    491 power
+n    491 power
     491 A.
-    490 regiment
-    490 Christian
-    489 language
+n    490 regiment
+a    490 Christian
+n    489 language
     489 initially
-    489 brother
-    488 time.
-    488 Avenue
-    487 meeting
-    487 Awards
-    486 Regiment
-    486 attack
+n    489 brother
+n    488 time.
+n    488 Avenue
+n    487 meeting
+n    487 Awards
+n    486 Regiment
+n    486 attack
     486 according
-    485 term
+n    485 term
     484 upon
-    483 multiple
-    483 Background.
-    482 ran
+a    483 multiple
+n    483 Background.
+v    482 ran
     481 selected
     480 presented
     480 central
