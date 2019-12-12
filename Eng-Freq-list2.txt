@@ -1,103 +1,103 @@
  261779 the
  149384 of
  124240 and
- 118720 in
+a 118720 in
   86246 a
   81699 to
-  61585 was
-  43461 is
+v  61585 was
+v  43461 is
   41313 The
   35069 for
-  34224 as
-  32791 on
+r  34224 as
+r  32791 on
   29670 
-  29355 by
+r  29355 by
   28215 with
   27520 at
   22993 from
   20720 that
   19344 his
-  18125 In
-  18068 he
-  17457 an
-  16050 He
-  12148 were
+a  18125 In
+n  18068 he
+  17457 a
+n  16050 He
+v  12148 were
   11777 which
   10298 her
-  10117 are
+v  10117 are
   10047 also
-   9958 had
-   9406 has
-   9127 first
+v   9958 had
+v   9406 has
+a   9127 first
    8926 it
    8796 It
-   8530 be
-   8264 she
+v   8530 be
+n   8264 she
    8149 who
    7733 their
-   7348 She
+n   7348 She
    6823 its
    6488 or
    6184 but
-   6010 been
+v   6010 been
    6004 one
    5882 two
-   5759 not
+r   5759 not
    5665 this
    5554 after
-   5548 have
-   5468 University
+v   5548 have
+n   5468 University
    5000 they
-   4922 where
+r   4922 where
    4614 into
-   4489 November
-   4133 between
-   4120 On
-   4039 other
+n   4489 November
+a   4133 between
+r   4120 On
+a   4039 other
    3986 during
-   3888 became
+v   3888 became
    3829 2019
    3818 then
    3753 (born
-   3750 when
-   3744 New
-   3670 would
-   3666 made
-   3660 American
+r   3750 when
+a   3744 New
+v   3670 would
+v   3666 made
+a   3660 American
    3574 A
-   3497 known
-   3434 over
-   3361 film
+v   3497 known
+r   3434 over
+n   3361 film
    3342 After
-   3338 under
+a   3338 under
    3324 This
-   3318 part
-   3294 National
+n   3318 part
+a   3294 National
    3195 about
-   3154 born
-   3134 all
-   3127 three
-   3124 United
+v   3154 born
+r   3134 all
+a   3127 three
+a   3124 United
    3112 more
-   3107 up
-   3059 October
-   3036 will
-   3012 served
-   3004 member
-   2995 only
-   2991 time
+r   3107 up
+n   3059 October
+v   3036 will
+v   3012 served
+n   3004 member
+a   2995 only
+n   2991 time
    2988 until
-   2985 years
-   2951 new
-   2935 team
-   2920 being
+n   2985 years
+a   2951 new
+n   2935 team
+v   2920 being
    2848 before
    2841 de
-   2827 later
-   2820 held
-   2781 played
+a   2827 later
+v   2820 held
+v   2781 played
    2710 against
-   2626 including
+v   2626 including
    2613 work
    2610 through
    2609 out
